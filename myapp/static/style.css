@@ -1,0 +1,41 @@
+.head
+{
+	background-color: #cc0000;
+}
+.headtxt
+{
+	color: skyblue; 
+	padding: 5px; 
+	text-shadow: 2px 2px #0033cc;
+	/*font-family: serif;*/
+	/*font-size: 30px;*/
+}
+.box
+{
+	border: 1px black;
+}
+/* .box img
+{
+	height: 50px;
+	width: 50px;
+} */
+.menu
+{
+	background-color: black;
+	margin-left: -15px;
+}
+.nav1
+{
+	color: lightgrey;
+	text-shadow: 2px 2px darkred;
+}
+.nav1:hover
+{
+	color: red;
+}
+.menutxt
+{
+	color: black;
+	text-shadow: 2px 2px #ff0066;
+	text-align: center;
+}
